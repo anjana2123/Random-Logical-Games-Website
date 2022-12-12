@@ -1,0 +1,47 @@
+.title{
+  font-family: 'Sacramento', cursive;
+}
+.Content{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+body {
+  text-align: center;
+  background-color: #BCCEF8;
+}
+
+.Dice-Game {
+  background-image:
+}
+
+.Quote-Generator {
+  background-image: url("C:/Users/anjan/Udemy/Web Development/Homepage/images/Quotes.jpg");
+}
+
+.Drum-Kit {
+  background-image: url("");
+}
+
+.Simon-Game {
+  background-image: url("");
+}
+
+.Love-Calculator {
+  background-image: url("");
+}
+.set {
+  outline: none;
+
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 0.2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  margin: 10px;
+
+}
