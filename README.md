@@ -35,13 +35,6 @@ A timeless classic! Play against a friend or test your strategy against the comp
 ### 6. Love Calculator
 Curious about your compatibility with someone? Use the Love Calculator to find out and share the results with your friends.
 
-## Getting Started
-
-To run these games locally, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/random-logical-games.git`.
-2. Open the desired game's HTML file in your web browser.
-
 ## Contributing
 
 We welcome contributions from the community! If you have ideas for improvements or new games, feel free to fork this repository and submit a pull request.
@@ -58,8 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- A big thank you to the open-source community for providing inspiration and resources.
+- A big thank you to Angela Yu, for providing such an informative web full stack web development course, which helped me all through the process of development.
 - Special thanks to the developers of the libraries and frameworks used in this project.
 
-Feel free to explore, enjoy the games, and have fun coding! If you have any questions or issues, please don't hesitate to open an [issue](https://github.com/your-username/random-logical-games/issues).
+Feel free to explore, enjoy the games, and have fun coding!
 
